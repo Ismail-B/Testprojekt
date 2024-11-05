@@ -1,0 +1,9 @@
+{
+    "name": "Währungsrechner",
+    "short_name": "W-Rechner",
+    "theme_color": "#778189",
+    "background_color": "#aeb3b7",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/index.html"
+  }
